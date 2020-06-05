@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><met:KNIMEMetaInfo xmlns:met="http://www.knime.org/2.9/metainfo">
+<met:element form="text" read-only="false" name="Author">knoldus</met:element>
+<met:element form="date" read-only="false" name="Creation Date">20/4/2020/12:00:01 +02:00</met:element>
+<met:element form="multiline" read-only="false" name="Comments">Predict sales for a retail store with linear regression
+
+- Prepare train and test data
+- Treat missing value
+- Finding correlation
+- Train a Linear Regression model
+- Apply trained regression model to the test data
+- Write prediction to a CSV file 
+
+
+
+
+TAGS: Linear Regression,machine learning,analysis,read-write,Prediction,input,output,sales,Retail</met:element>
+</met:KNIMEMetaInfo>
